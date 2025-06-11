@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "repository": "",
+  "repository": "https://github.com/rasmus161/bkEspoo_webCopy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
